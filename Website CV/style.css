@@ -1,0 +1,82 @@
+.first-row{
+    background-image: url("image/books.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: lightgoldenrodyellow;
+    height: 373px;
+}
+
+.second-row{
+    height: 313px;
+}
+
+.third-row{
+    height: 311;
+    background-color: black;
+}
+
+.fourth-row{
+    background-color: dark;
+}
+
+#say-hello{
+    display: block;  
+    background-color: rgba(0, 0, 0, 0.21);
+    padding: 91px;
+    text-align: center;
+    font-family: monospace;
+    color: aliceblue;
+}
+
+#profile{
+    text-align: center;
+    font-family: monospace;
+    margin: 30px;
+    border: solid goldenrod 3px;
+}
+
+#profile-header{
+    color: darkgoldenrod;
+}
+
+#skill{
+    text-align: center;
+    font-family: monospace;
+    margin: 50px;
+}
+
+#skill-header{
+    color: darkgoldenrod;
+}
+
+#skill-detail{
+    color: lightsteelblue;
+}
+
+#basic-c{
+    border: solid goldenrod 1px;
+    padding: 3px;
+}
+
+#basic-java{
+    border: solid goldenrod 1px;
+    padding: 3px;
+}
+
+#a-illustrator{
+    border: solid goldenrod 1px;
+    padding: 3px;
+}
+
+#english{
+    border: solid goldenrod 1px;
+    padding: 3px;
+}
+
+#contact{
+    text-align: center;
+    color: aliceblue;
+    font-family: monospace;
+    margin: 7px;
+}
